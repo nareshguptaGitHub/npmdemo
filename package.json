@@ -1,0 +1,15 @@
+{
+  "name": "nodeprograms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "First1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nareh",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "nginx": "^1.0.3"
+  }
+}
